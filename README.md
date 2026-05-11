@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="game.gif" alt="My GitHub Game" style="max-width: 100%; height: auto;" />
+</div>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Ayan Ghosh</h1>
 <h3 align="center">B.Tech CSE ’27 | Web Developer | AI & ML Enthusiast</h3>
 
