@@ -17,7 +17,7 @@
 <br>
 
 ## 👩‍💻 About Me
-- 🎓 **B.Tech in Computer Science & Engineering**  
+- 🎓 **Master Diploma in Information Technology**  
 - 🏫 **JN Institute of Computer and Technology**  
 - 💻 Passionate about **Web Development & Frontend Technologies**  
 - 🌱 Currently learning **Full Stack Web Development**  
