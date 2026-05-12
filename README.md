@@ -2,7 +2,7 @@
   <img src="game.gif" alt="My GitHub Game" style="max-width: 100%; height: auto;" />
 </div>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Ayan Ghosh</h1>
-<h3 align="center">B.Tech CSE ’27 | Web Developer | AI & ML Enthusiast</h3>
+<h3 align="center">AI & ML Enthusiast building intelligent solutions with Python</h3>
 
 <p align="center">
   Turning ideas into interactive websites 🚀
@@ -17,11 +17,11 @@
 <br>
 
 ## 👩‍💻 About Me
-- 🎓 **Master Diploma in Information Technology**  
-- 🏫 **JN Institute of Computer and Technology**  
-- 💻 Passionate about **Web Development & Frontend Technologies**  
-- 🌱 Currently learning **Full Stack Web Development**  
-- ✨ Love building projects that solve real-world problems  
+- 🤖 Passionate about Artificial Intelligence & Machine Learning  
+- 🌱 Currently learning Full Stack Web Development & AI/ML  
+- 💡 Love building modern web applications and intelligent systems  
+- 📚 Exploring Deep Learning, Computer Vision & Data Science  
+- ⚡ Goal: Become an AI Engineer & Full Stack Developer
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## 👩‍💻 Contribution Graph
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrayanghosh&radius=16&hide_border=true&bg_color=00000000&theme=tokyo-night&area=true&order=5" alt="activity-graph graph"/>
 </div>
