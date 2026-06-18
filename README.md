@@ -8,7 +8,7 @@
 <p align="center" style="line-height:0;">
   <a href="https://mrayanghosh.github.io"><img src="https://img.shields.io/badge/Website-70A5FD?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
   <a href="https://www.linkedin.com/in/mrayanghosh/"><img src="https://img.shields.io/badge/LinkedIn-70A5FD?style=for-the-badge&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-70A5FD?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/mrayanghosh/"><img src="https://img.shields.io/badge/LeetCode-70A5FD?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/mrayanghosh"><img src="https://img.shields.io/badge/GitHub-70A5FD?style=for-the-badge&logo=github&logoColor=black&labelColor=70A5FD&color=70A5FD" /></a>
 </p>
 
