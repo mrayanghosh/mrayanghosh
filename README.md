@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Enthusiast building intelligent solutions with Python</h3>
 
 <p align="center">
-  Turning ideas into interactive websites 🚀
+  Building intelligent systems with AI, ML & Computer Vision 🚀
 </p>
 
 <p align="center" style="line-height:0;">
