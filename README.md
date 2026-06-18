@@ -24,7 +24,7 @@
 
 ## ⚙️ Tools & Technologies
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=c,python,html,css,tailwind,js,nodejs,arduino,r,matlab,git,github"  height="60"  />
+  <img  src="https://skillicons.dev/icons?i=c,java,python,html,css,js,nodejs,gitlab,matlab,git,vscode,github"  height="60"  />
 </div>
 
 <br>
