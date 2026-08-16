@@ -14,15 +14,6 @@
 
 <br>
 
-## 👩‍💻 About Me
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 🌱 Currently learning Full Stack Web Development & AI/ML  
-- 💡 Love building modern web applications and intelligent systems  
-- 📚 Exploring Deep Learning, Computer Vision & Data Science  
-- ⚡ Goal: Become an AI Engineer & Full Stack Developer
-
-<br>
-
 ## ⚙️ Tools & Technologies
 <div align="center">
   <img  src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,gitlab,git,vscode,github"  height="60"  />
